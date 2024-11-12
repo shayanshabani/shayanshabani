@@ -12,7 +12,6 @@
 
   <img alt="Shayan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shayanshabani&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-<summary><h2></h2></summary>
- <img alt="Shayan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shayanshabani&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
+  <img alt="Shayan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shayanshabani&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/shayanshabani/shayanshabani)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/shayanshabani/shayanshabani)
