@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm Shayan...  
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=XAI+&+Data+Mining+Enthusiast)](https://git.io/typing-svg)
 ---
 
 - 🔭 I’m currently trying to implement variations of bayesian deep learning inference algorithms for recommender systems.
