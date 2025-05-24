@@ -16,7 +16,7 @@
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
     <p>Hello, I'm Shayan, a senior computer engineering student at Sharif University of Technology.</p>
-    <p>👀 I'm deeply interested in machine learning, information retrieval, explainable AI, as well as developing human-centered AI models.</p>
+    <p>👀 I'm deeply interested in algorithmic data management.</p>
     <p>🌱 I've been working extensively with Python, Django, and Vue.js, and I enjoy creating innovative tools and fun projects.</p>
     <p>💞️ Feel free to submit PRs to improve my projects and make them even better.</p>
   </div>
