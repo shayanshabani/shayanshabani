@@ -15,8 +15,7 @@
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
-    <p>Hello, I'm Shayan, a senior computer engineering student at Sharif University of Technology.</p>
-    <p>👀 I'm deeply interested in algorithmic data management.</p>
-    <p>🌱 I've been working extensively with Python, Django, and Vue.js, and I enjoy creating innovative tools and fun projects.</p>
-    <p>💞️ Feel free to submit PRs to improve my projects and make them even better.</p>
+    <p>Hello, I'm Shayan, .</p>
+    <p>👀 I'm deeply interested in Agentic AI and Interactive data and AI systems.</p>
+    <p>🌱 I've been working extensively with AI Engineering frameworks, like Mastra and Pydantic AI, and I enjoy creating innovative tools and fun projects.</p>
   </div>
